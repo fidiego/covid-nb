@@ -4,6 +4,9 @@ Real simple stuff to visualize some of the stats.
 
 ## Data Sources
 
+- [NY Times Dataset](https://github.com/nytimes/covid-19-data)
+- [Indiana.gov](https://isdh.maps.arcgis.com/apps/opsdashboard/index.html#/255e4039e3dd4d8780d8da7b9b599d70)
+
 ## Notebooks
 
 #### Simple Notebook
