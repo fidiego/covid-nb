@@ -13,6 +13,8 @@ numpy = "*"
 seaborn = "*"
 bokeh = "*"
 black = "==19.10b0"
+nbconvert = "*"
+jupyter-contrib-nbextensions = "*"
 
 [requires]
 python_version = "3.7"
