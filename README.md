@@ -2,6 +2,8 @@
 
 Real simple stuff to visualize some of the stats.
 
+There are [html versions here](https://fidiego.github.io/covid-nb/).
+
 ## Data Sources
 
 - [NY Times Dataset](https://github.com/nytimes/covid-19-data)
