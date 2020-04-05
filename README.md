@@ -19,6 +19,12 @@ Simple notebook with functions to plot growth of infections.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fidiego/covid-nb/master?filepath=SimpleNotebook.ipynb)
 
+#### Boken Notebook
+
+Same as simple notebook but using the bokeh library to generate interactive graphs.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fidiego/covid-nb/master?filepath=Bokeh.ipynb)
+
 ## Notes
 
 I'm committing straight to master. I'm sorry.

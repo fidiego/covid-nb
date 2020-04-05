@@ -12,6 +12,7 @@ scipy = "*"
 numpy = "*"
 seaborn = "*"
 bokeh = "*"
+black = "==19.10b0"
 
 [requires]
 python_version = "3.7"
