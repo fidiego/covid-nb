@@ -4,6 +4,20 @@ Real simple stuff to visualize some of the stats.
 
 There are [html versions here](https://fidiego.github.io/covid-nb/).
 
+## Shortcuts
+
+I'm lazy, so I'm opting to run these all from the terminal like this:
+
+```bash
+pipenv run jupyter nbconvert --to notebook --inplace --execute  *.ipynb
+```
+
+Then I generate the html with
+
+```bash
+pipenv run python gen_html.py
+```
+
 ## Data Sources
 
 - [NY Times Dataset](https://github.com/nytimes/covid-19-data)
