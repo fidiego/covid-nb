@@ -4,20 +4,6 @@ Real simple stuff to visualize some of the stats.
 
 There are [html versions here](https://fidiego.github.io/covid-nb/).
 
-## Shortcuts
-
-I'm lazy, so I'm opting to run these all from the terminal like this:
-
-```bash
-pipenv run jupyter nbconvert --to notebook --inplace --execute  *.ipynb
-```
-
-Then I generate the html with
-
-```bash
-pipenv run python gen_html.py
-```
-
 ## Data Sources
 
 - [NY Times Dataset](https://github.com/nytimes/covid-19-data)
@@ -40,6 +26,10 @@ Simple notebook with functions to plot growth of infections.
 Same as simple notebook but using the bokeh library to generate interactive graphs.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fidiego/covid-nb/master?filepath=Bokeh.ipynb)
+
+## Commands
+
+I'm lazy, so I made a Makefile. Run `make` to see the commands and `make <command> -n` to see how it's executed.
 
 ## Notes
 
