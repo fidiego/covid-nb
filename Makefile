@@ -20,7 +20,7 @@ run:   ## run in development mode: requires dev dependencies
 
 .PHONY: build
 build:   ## build the docker containers
-	@export GIT_HEAD=$(GIT_HEAD) && export GIT_BRANCH=$(GIT_BRANCH) && \
+	@export GIT_HEAD=$(GIT_HEAD) && export GIT_BRANCH=$(GIT_BRANCH)                 && \
 		pipenv run jupyter nbconvert --to notebook --inplace --execute  *.ipynb && \
 		pipenv run python gen_html.py    && \
 		git add .                        && \
