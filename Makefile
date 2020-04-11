@@ -2,6 +2,7 @@
 OPEN=$(word 1, $(wildcard /usr/bin/xdg-open /usr/bin/open))
 GIT_HEAD=$(shell git rev-parse --short HEAD)
 GIT_BRANCH=$(shell git rev-parse --abbrev-ref HEAD)
+DATE=$(shell date)
 
 .PHONY: help
 help: ## Print the help message
@@ -19,7 +20,12 @@ run:   ## run in development mode: requires dev dependencies
 
 .PHONY: build
 build:   ## build the docker containers
-	@export GIT_HEAD=$(GIT_HEAD) && export GIT_BRANCH=$(GIT_BRANCH) && pipenv run jupyter nbconvert --to notebook --inplace --execute  *.ipynb && pipenv run python gen_html.py
+	@export GIT_HEAD=$(GIT_HEAD) && export GIT_BRANCH=$(GIT_BRANCH) && \
+		pipenv run jupyter nbconvert --to notebook --inplace --execute  *.ipynb && \
+		pipenv run python gen_html.py    && \
+		git add .                        && \
+		git commit -m 'updated: $(DATE)' && \
+		git push
 
 .PHONY: lint
 lint: ## lint the codebase
