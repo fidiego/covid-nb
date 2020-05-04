@@ -1,0 +1,1274 @@
+{
+    "data": [
+        {
+            "CTYNAME": "Harris County",
+            "Pop": 4698619,
+            "GrowthRate": "14.3821"
+        },
+        {
+            "CTYNAME": "Dallas County",
+            "Pop": 2637772,
+            "GrowthRate": "11.1892"
+        },
+        {
+            "CTYNAME": "Tarrant County",
+            "Pop": 2084931,
+            "GrowthRate": "14.7138"
+        },
+        {
+            "CTYNAME": "Bexar County",
+            "Pop": 1986049,
+            "GrowthRate": "15.2766"
+        },
+        {
+            "CTYNAME": "Travis County",
+            "Pop": 1248743,
+            "GrowthRate": "21.1738"
+        },
+        {
+            "CTYNAME": "Collin County",
+            "Pop": 1005146,
+            "GrowthRate": "27.4869"
+        },
+        {
+            "CTYNAME": "Hidalgo County",
+            "Pop": 865939,
+            "GrowthRate": "11.1299"
+        },
+        {
+            "CTYNAME": "Denton County",
+            "Pop": 859064,
+            "GrowthRate": "28.8400"
+        },
+        {
+            "CTYNAME": "El Paso County",
+            "Pop": 840758,
+            "GrowthRate": "4.6168"
+        },
+        {
+            "CTYNAME": "Fort Bend County",
+            "Pop": 787858,
+            "GrowthRate": "33.4764"
+        },
+        {
+            "CTYNAME": "Montgomery County",
+            "Pop": 590925,
+            "GrowthRate": "28.6830"
+        },
+        {
+            "CTYNAME": "Williamson County",
+            "Pop": 566719,
+            "GrowthRate": "32.9440"
+        },
+        {
+            "CTYNAME": "Cameron County",
+            "Pop": 423908,
+            "GrowthRate": "3.9872"
+        },
+        {
+            "CTYNAME": "Brazoria County",
+            "Pop": 370200,
+            "GrowthRate": "17.7305"
+        },
+        {
+            "CTYNAME": "Nueces County",
+            "Pop": 362265,
+            "GrowthRate": "6.4693"
+        },
+        {
+            "CTYNAME": "Bell County",
+            "Pop": 355642,
+            "GrowthRate": "13.6781"
+        },
+        {
+            "CTYNAME": "Galveston County",
+            "Pop": 337890,
+            "GrowthRate": "15.5274"
+        },
+        {
+            "CTYNAME": "Lubbock County",
+            "Pop": 307412,
+            "GrowthRate": "9.6709"
+        },
+        {
+            "CTYNAME": "Webb County",
+            "Pop": 275910,
+            "GrowthRate": "9.7533"
+        },
+        {
+            "CTYNAME": "Jefferson County",
+            "Pop": 255001,
+            "GrowthRate": "1.0053"
+        },
+        {
+            "CTYNAME": "McLennan County",
+            "Pop": 254607,
+            "GrowthRate": "7.9223"
+        },
+        {
+            "CTYNAME": "Smith County",
+            "Pop": 230221,
+            "GrowthRate": "9.4165"
+        },
+        {
+            "CTYNAME": "Brazos County",
+            "Pop": 226758,
+            "GrowthRate": "15.8921"
+        },
+        {
+            "CTYNAME": "Hays County",
+            "Pop": 222631,
+            "GrowthRate": "40.7169"
+        },
+        {
+            "CTYNAME": "Ellis County",
+            "Pop": 179436,
+            "GrowthRate": "19.3289"
+        },
+        {
+            "CTYNAME": "Midland County",
+            "Pop": 172578,
+            "GrowthRate": "25.9831"
+        },
+        {
+            "CTYNAME": "Johnson County",
+            "Pop": 171361,
+            "GrowthRate": "13.2980"
+        },
+        {
+            "CTYNAME": "Guadalupe County",
+            "Pop": 163694,
+            "GrowthRate": "23.4532"
+        },
+        {
+            "CTYNAME": "Ector County",
+            "Pop": 162124,
+            "GrowthRate": "18.2670"
+        },
+        {
+            "CTYNAME": "Comal County",
+            "Pop": 148373,
+            "GrowthRate": "35.7857"
+        },
+        {
+            "CTYNAME": "Parker County",
+            "Pop": 138371,
+            "GrowthRate": "17.9382"
+        },
+        {
+            "CTYNAME": "Taylor County",
+            "Pop": 137640,
+            "GrowthRate": "4.4048"
+        },
+        {
+            "CTYNAME": "Randall County",
+            "Pop": 136271,
+            "GrowthRate": "12.4515"
+        },
+        {
+            "CTYNAME": "Grayson County",
+            "Pop": 133991,
+            "GrowthRate": "10.7089"
+        },
+        {
+            "CTYNAME": "Wichita County",
+            "Pop": 132064,
+            "GrowthRate": "0.2003"
+        },
+        {
+            "CTYNAME": "Kaufman County",
+            "Pop": 128622,
+            "GrowthRate": "23.8059"
+        },
+        {
+            "CTYNAME": "Gregg County",
+            "Pop": 123707,
+            "GrowthRate": "1.4100"
+        },
+        {
+            "CTYNAME": "Potter County",
+            "Pop": 119648,
+            "GrowthRate": "-1.4269"
+        },
+        {
+            "CTYNAME": "Tom Green County",
+            "Pop": 118189,
+            "GrowthRate": "6.7864"
+        },
+        {
+            "CTYNAME": "Rockwall County",
+            "Pop": 100657,
+            "GrowthRate": "27.5641"
+        },
+        {
+            "CTYNAME": "Hunt County",
+            "Pop": 96493,
+            "GrowthRate": "11.7024"
+        },
+        {
+            "CTYNAME": "Bowie County",
+            "Pop": 94324,
+            "GrowthRate": "1.8222"
+        },
+        {
+            "CTYNAME": "Victoria County",
+            "Pop": 92035,
+            "GrowthRate": "5.9383"
+        },
+        {
+            "CTYNAME": "Angelina County",
+            "Pop": 87092,
+            "GrowthRate": "0.2152"
+        },
+        {
+            "CTYNAME": "Bastrop County",
+            "Pop": 86976,
+            "GrowthRate": "16.9630"
+        },
+        {
+            "CTYNAME": "Liberty County",
+            "Pop": 86323,
+            "GrowthRate": "13.7985"
+        },
+        {
+            "CTYNAME": "Orange County",
+            "Pop": 83572,
+            "GrowthRate": "1.9009"
+        },
+        {
+            "CTYNAME": "Henderson County",
+            "Pop": 82299,
+            "GrowthRate": "4.6768"
+        },
+        {
+            "CTYNAME": "Coryell County",
+            "Pop": 74808,
+            "GrowthRate": "-1.1261"
+        },
+        {
+            "CTYNAME": "Walker County",
+            "Pop": 72480,
+            "GrowthRate": "6.2087"
+        },
+        {
+            "CTYNAME": "Wise County",
+            "Pop": 68305,
+            "GrowthRate": "15.5733"
+        },
+        {
+            "CTYNAME": "San Patricio County",
+            "Pop": 66893,
+            "GrowthRate": "3.8244"
+        },
+        {
+            "CTYNAME": "Harrison County",
+            "Pop": 66726,
+            "GrowthRate": "1.4551"
+        },
+        {
+            "CTYNAME": "Nacogdoches County",
+            "Pop": 65711,
+            "GrowthRate": "1.5846"
+        },
+        {
+            "CTYNAME": "Starr County",
+            "Pop": 64525,
+            "GrowthRate": "5.5244"
+        },
+        {
+            "CTYNAME": "Hood County",
+            "Pop": 60537,
+            "GrowthRate": "18.0795"
+        },
+        {
+            "CTYNAME": "Maverick County",
+            "Pop": 58485,
+            "GrowthRate": "7.4144"
+        },
+        {
+            "CTYNAME": "Anderson County",
+            "Pop": 58057,
+            "GrowthRate": "-0.7522"
+        },
+        {
+            "CTYNAME": "Hardin County",
+            "Pop": 57207,
+            "GrowthRate": "4.4247"
+        },
+        {
+            "CTYNAME": "Van Zandt County",
+            "Pop": 56019,
+            "GrowthRate": "6.5223"
+        },
+        {
+            "CTYNAME": "Rusk County",
+            "Pop": 54450,
+            "GrowthRate": "2.0408"
+        },
+        {
+            "CTYNAME": "Waller County",
+            "Pop": 53126,
+            "GrowthRate": "22.0614"
+        },
+        {
+            "CTYNAME": "Cherokee County",
+            "Pop": 52592,
+            "GrowthRate": "3.2349"
+        },
+        {
+            "CTYNAME": "Kerr County",
+            "Pop": 52405,
+            "GrowthRate": "5.6084"
+        },
+        {
+            "CTYNAME": "Medina County",
+            "Pop": 50921,
+            "GrowthRate": "10.3883"
+        },
+        {
+            "CTYNAME": "Atascosa County",
+            "Pop": 50310,
+            "GrowthRate": "11.9169"
+        },
+        {
+            "CTYNAME": "Wilson County",
+            "Pop": 50224,
+            "GrowthRate": "16.6454"
+        },
+        {
+            "CTYNAME": "Polk County",
+            "Pop": 50031,
+            "GrowthRate": "10.0865"
+        },
+        {
+            "CTYNAME": "Lamar County",
+            "Pop": 49728,
+            "GrowthRate": "-0.1827"
+        },
+        {
+            "CTYNAME": "Navarro County",
+            "Pop": 49565,
+            "GrowthRate": "3.5365"
+        },
+        {
+            "CTYNAME": "Val Verde County",
+            "Pop": 49208,
+            "GrowthRate": "0.4655"
+        },
+        {
+            "CTYNAME": "Burnet County",
+            "Pop": 47542,
+            "GrowthRate": "11.1964"
+        },
+        {
+            "CTYNAME": "Kendall County",
+            "Pop": 45641,
+            "GrowthRate": "35.7717"
+        },
+        {
+            "CTYNAME": "Wood County",
+            "Pop": 45129,
+            "GrowthRate": "7.4986"
+        },
+        {
+            "CTYNAME": "Caldwell County",
+            "Pop": 43247,
+            "GrowthRate": "13.4169"
+        },
+        {
+            "CTYNAME": "Chambers County",
+            "Pop": 42454,
+            "GrowthRate": "19.7709"
+        },
+        {
+            "CTYNAME": "Erath County",
+            "Pop": 42446,
+            "GrowthRate": "11.9445"
+        },
+        {
+            "CTYNAME": "Wharton County",
+            "Pop": 41619,
+            "GrowthRate": "0.8188"
+        },
+        {
+            "CTYNAME": "Upshur County",
+            "Pop": 41260,
+            "GrowthRate": "4.7767"
+        },
+        {
+            "CTYNAME": "Jim Wells County",
+            "Pop": 40822,
+            "GrowthRate": "-0.1541"
+        },
+        {
+            "CTYNAME": "Cooke County",
+            "Pop": 40574,
+            "GrowthRate": "5.4582"
+        },
+        {
+            "CTYNAME": "Brown County",
+            "Pop": 37924,
+            "GrowthRate": "-0.4044"
+        },
+        {
+            "CTYNAME": "Hopkins County",
+            "Pop": 36810,
+            "GrowthRate": "4.5560"
+        },
+        {
+            "CTYNAME": "Matagorda County",
+            "Pop": 36552,
+            "GrowthRate": "-0.4250"
+        },
+        {
+            "CTYNAME": "Howard County",
+            "Pop": 36459,
+            "GrowthRate": "4.1924"
+        },
+        {
+            "CTYNAME": "Hill County",
+            "Pop": 36354,
+            "GrowthRate": "3.4400"
+        },
+        {
+            "CTYNAME": "Jasper County",
+            "Pop": 35872,
+            "GrowthRate": "0.2711"
+        },
+        {
+            "CTYNAME": "Fannin County",
+            "Pop": 35286,
+            "GrowthRate": "4.0302"
+        },
+        {
+            "CTYNAME": "Washington County",
+            "Pop": 35108,
+            "GrowthRate": "4.1688"
+        },
+        {
+            "CTYNAME": "Hale County",
+            "Pop": 33830,
+            "GrowthRate": "-6.7273"
+        },
+        {
+            "CTYNAME": "Titus County",
+            "Pop": 33033,
+            "GrowthRate": "1.8877"
+        },
+        {
+            "CTYNAME": "Bee County",
+            "Pop": 32587,
+            "GrowthRate": "2.2722"
+        },
+        {
+            "CTYNAME": "Kleberg County",
+            "Pop": 31129,
+            "GrowthRate": "-2.8251"
+        },
+        {
+            "CTYNAME": "Cass County",
+            "Pop": 30119,
+            "GrowthRate": "-1.1033"
+        },
+        {
+            "CTYNAME": "Austin County",
+            "Pop": 29989,
+            "GrowthRate": "5.7365"
+        },
+        {
+            "CTYNAME": "Palo Pinto County",
+            "Pop": 28875,
+            "GrowthRate": "2.8166"
+        },
+        {
+            "CTYNAME": "San Jacinto County",
+            "Pop": 28719,
+            "GrowthRate": "8.4800"
+        },
+        {
+            "CTYNAME": "Grimes County",
+            "Pop": 28360,
+            "GrowthRate": "6.5565"
+        },
+        {
+            "CTYNAME": "Uvalde County",
+            "Pop": 26846,
+            "GrowthRate": "1.5240"
+        },
+        {
+            "CTYNAME": "Gillespie County",
+            "Pop": 26804,
+            "GrowthRate": "7.7028"
+        },
+        {
+            "CTYNAME": "Shelby County",
+            "Pop": 25418,
+            "GrowthRate": "-0.1610"
+        },
+        {
+            "CTYNAME": "Fayette County",
+            "Pop": 25349,
+            "GrowthRate": "3.2083"
+        },
+        {
+            "CTYNAME": "Milam County",
+            "Pop": 25131,
+            "GrowthRate": "1.8315"
+        },
+        {
+            "CTYNAME": "Aransas County",
+            "Pop": 23792,
+            "GrowthRate": "2.6314"
+        },
+        {
+            "CTYNAME": "Limestone County",
+            "Pop": 23519,
+            "GrowthRate": "0.1235"
+        },
+        {
+            "CTYNAME": "Houston County",
+            "Pop": 23169,
+            "GrowthRate": "-2.1621"
+        },
+        {
+            "CTYNAME": "Panola County",
+            "Pop": 23148,
+            "GrowthRate": "-2.6249"
+        },
+        {
+            "CTYNAME": "Hockley County",
+            "Pop": 22980,
+            "GrowthRate": "0.5601"
+        },
+        {
+            "CTYNAME": "Bandera County",
+            "Pop": 22824,
+            "GrowthRate": "11.0009"
+        },
+        {
+            "CTYNAME": "Gray County",
+            "Pop": 21895,
+            "GrowthRate": "-2.5546"
+        },
+        {
+            "CTYNAME": "Tyler County",
+            "Pop": 21696,
+            "GrowthRate": "-0.2941"
+        },
+        {
+            "CTYNAME": "Llano County",
+            "Pop": 21646,
+            "GrowthRate": "11.9582"
+        },
+        {
+            "CTYNAME": "Calhoun County",
+            "Pop": 21561,
+            "GrowthRate": "1.1636"
+        },
+        {
+            "CTYNAME": "Willacy County",
+            "Pop": 21515,
+            "GrowthRate": "-3.2033"
+        },
+        {
+            "CTYNAME": "Moore County",
+            "Pop": 21485,
+            "GrowthRate": "-2.3720"
+        },
+        {
+            "CTYNAME": "Lampasas County",
+            "Pop": 21229,
+            "GrowthRate": "7.4016"
+        },
+        {
+            "CTYNAME": "Colorado County",
+            "Pop": 21217,
+            "GrowthRate": "1.6529"
+        },
+        {
+            "CTYNAME": "Hutchinson County",
+            "Pop": 21198,
+            "GrowthRate": "-4.5651"
+        },
+        {
+            "CTYNAME": "Gaines County",
+            "Pop": 20901,
+            "GrowthRate": "18.8300"
+        },
+        {
+            "CTYNAME": "Gonzales County",
+            "Pop": 20826,
+            "GrowthRate": "5.1924"
+        },
+        {
+            "CTYNAME": "DeWitt County",
+            "Pop": 20187,
+            "GrowthRate": "0.6632"
+        },
+        {
+            "CTYNAME": "Lavaca County",
+            "Pop": 20110,
+            "GrowthRate": "4.4404"
+        },
+        {
+            "CTYNAME": "Jones County",
+            "Pop": 19817,
+            "GrowthRate": "-2.0754"
+        },
+        {
+            "CTYNAME": "Frio County",
+            "Pop": 19816,
+            "GrowthRate": "14.8221"
+        },
+        {
+            "CTYNAME": "Freestone County",
+            "Pop": 19808,
+            "GrowthRate": "0.0303"
+        },
+        {
+            "CTYNAME": "Montague County",
+            "Pop": 19596,
+            "GrowthRate": "-0.6086"
+        },
+        {
+            "CTYNAME": "Deaf Smith County",
+            "Pop": 18760,
+            "GrowthRate": "-3.6219"
+        },
+        {
+            "CTYNAME": "Bosque County",
+            "Pop": 18691,
+            "GrowthRate": "2.2931"
+        },
+        {
+            "CTYNAME": "Burleson County",
+            "Pop": 18389,
+            "GrowthRate": "6.6895"
+        },
+        {
+            "CTYNAME": "Eastland County",
+            "Pop": 18322,
+            "GrowthRate": "-1.4628"
+        },
+        {
+            "CTYNAME": "Andrews County",
+            "Pop": 18128,
+            "GrowthRate": "22.0823"
+        },
+        {
+            "CTYNAME": "Young County",
+            "Pop": 18045,
+            "GrowthRate": "-2.5753"
+        },
+        {
+            "CTYNAME": "Falls County",
+            "Pop": 17335,
+            "GrowthRate": "-3.1294"
+        },
+        {
+            "CTYNAME": "Robertson County",
+            "Pop": 17284,
+            "GrowthRate": "4.4098"
+        },
+        {
+            "CTYNAME": "Leon County",
+            "Pop": 17270,
+            "GrowthRate": "3.2524"
+        },
+        {
+            "CTYNAME": "Lee County",
+            "Pop": 17144,
+            "GrowthRate": "3.3269"
+        },
+        {
+            "CTYNAME": "Scurry County",
+            "Pop": 16866,
+            "GrowthRate": "-0.3721"
+        },
+        {
+            "CTYNAME": "Reeves County",
+            "Pop": 15695,
+            "GrowthRate": "13.4360"
+        },
+        {
+            "CTYNAME": "Pecos County",
+            "Pop": 15673,
+            "GrowthRate": "0.9793"
+        },
+        {
+            "CTYNAME": "Karnes County",
+            "Pop": 15650,
+            "GrowthRate": "5.1112"
+        },
+        {
+            "CTYNAME": "Jackson County",
+            "Pop": 14874,
+            "GrowthRate": "5.5567"
+        },
+        {
+            "CTYNAME": "Nolan County",
+            "Pop": 14751,
+            "GrowthRate": "-3.2531"
+        },
+        {
+            "CTYNAME": "Trinity County",
+            "Pop": 14740,
+            "GrowthRate": "0.0747"
+        },
+        {
+            "CTYNAME": "Madison County",
+            "Pop": 14422,
+            "GrowthRate": "4.9942"
+        },
+        {
+            "CTYNAME": "Zapata County",
+            "Pop": 14190,
+            "GrowthRate": "0.7312"
+        },
+        {
+            "CTYNAME": "Callahan County",
+            "Pop": 13994,
+            "GrowthRate": "3.5595"
+        },
+        {
+            "CTYNAME": "Newton County",
+            "Pop": 13746,
+            "GrowthRate": "-4.8588"
+        },
+        {
+            "CTYNAME": "Comanche County",
+            "Pop": 13534,
+            "GrowthRate": "-3.0029"
+        },
+        {
+            "CTYNAME": "Lamb County",
+            "Pop": 13158,
+            "GrowthRate": "-5.9740"
+        },
+        {
+            "CTYNAME": "Camp County",
+            "Pop": 13033,
+            "GrowthRate": "5.1303"
+        },
+        {
+            "CTYNAME": "Wilbarger County",
+            "Pop": 12820,
+            "GrowthRate": "-5.1144"
+        },
+        {
+            "CTYNAME": "Dawson County",
+            "Pop": 12619,
+            "GrowthRate": "-8.7365"
+        },
+        {
+            "CTYNAME": "Morris County",
+            "Pop": 12339,
+            "GrowthRate": "-4.4969"
+        },
+        {
+            "CTYNAME": "Terry County",
+            "Pop": 12287,
+            "GrowthRate": "-3.1147"
+        },
+        {
+            "CTYNAME": "Red River County",
+            "Pop": 12175,
+            "GrowthRate": "-5.4516"
+        },
+        {
+            "CTYNAME": "Live Oak County",
+            "Pop": 12166,
+            "GrowthRate": "5.2786"
+        },
+        {
+            "CTYNAME": "Rains County",
+            "Pop": 12159,
+            "GrowthRate": "11.4176"
+        },
+        {
+            "CTYNAME": "Zavala County",
+            "Pop": 11983,
+            "GrowthRate": "2.1743"
+        },
+        {
+            "CTYNAME": "Ward County",
+            "Pop": 11720,
+            "GrowthRate": "10.6391"
+        },
+        {
+            "CTYNAME": "Blanco County",
+            "Pop": 11702,
+            "GrowthRate": "11.3416"
+        },
+        {
+            "CTYNAME": "Duval County",
+            "Pop": 11212,
+            "GrowthRate": "-4.3508"
+        },
+        {
+            "CTYNAME": "Franklin County",
+            "Pop": 10766,
+            "GrowthRate": "1.4799"
+        },
+        {
+            "CTYNAME": "Sabine County",
+            "Pop": 10589,
+            "GrowthRate": "-2.6120"
+        },
+        {
+            "CTYNAME": "Clay County",
+            "Pop": 10456,
+            "GrowthRate": "-2.6171"
+        },
+        {
+            "CTYNAME": "Dimmit County",
+            "Pop": 10308,
+            "GrowthRate": "2.6387"
+        },
+        {
+            "CTYNAME": "Runnels County",
+            "Pop": 10234,
+            "GrowthRate": "-2.6446"
+        },
+        {
+            "CTYNAME": "Ochiltree County",
+            "Pop": 9947,
+            "GrowthRate": "-2.1927"
+        },
+        {
+            "CTYNAME": "Marion County",
+            "Pop": 9928,
+            "GrowthRate": "-5.3394"
+        },
+        {
+            "CTYNAME": "Parmer County",
+            "Pop": 9864,
+            "GrowthRate": "-3.8971"
+        },
+        {
+            "CTYNAME": "Stephens County",
+            "Pop": 9433,
+            "GrowthRate": "-1.9133"
+        },
+        {
+            "CTYNAME": "Brewster County",
+            "Pop": 9267,
+            "GrowthRate": "0.0756"
+        },
+        {
+            "CTYNAME": "Somervell County",
+            "Pop": 9016,
+            "GrowthRate": "6.0581"
+        },
+        {
+            "CTYNAME": "Jack County",
+            "Pop": 8843,
+            "GrowthRate": "-1.8208"
+        },
+        {
+            "CTYNAME": "Archer County",
+            "Pop": 8786,
+            "GrowthRate": "-3.5777"
+        },
+        {
+            "CTYNAME": "Yoakum County",
+            "Pop": 8591,
+            "GrowthRate": "9.4256"
+        },
+        {
+            "CTYNAME": "Hamilton County",
+            "Pop": 8484,
+            "GrowthRate": "0.2245"
+        },
+        {
+            "CTYNAME": "Coleman County",
+            "Pop": 8397,
+            "GrowthRate": "-5.3539"
+        },
+        {
+            "CTYNAME": "San Augustine County",
+            "Pop": 8232,
+            "GrowthRate": "-7.0251"
+        },
+        {
+            "CTYNAME": "Mitchell County",
+            "Pop": 8145,
+            "GrowthRate": "-13.4707"
+        },
+        {
+            "CTYNAME": "McCulloch County",
+            "Pop": 7987,
+            "GrowthRate": "-2.9644"
+        },
+        {
+            "CTYNAME": "Winkler County",
+            "Pop": 7720,
+            "GrowthRate": "8.9318"
+        },
+        {
+            "CTYNAME": "Castro County",
+            "Pop": 7665,
+            "GrowthRate": "-5.6731"
+        },
+        {
+            "CTYNAME": "Goliad County",
+            "Pop": 7584,
+            "GrowthRate": "5.0561"
+        },
+        {
+            "CTYNAME": "La Salle County",
+            "Pop": 7531,
+            "GrowthRate": "8.9239"
+        },
+        {
+            "CTYNAME": "Swisher County",
+            "Pop": 7462,
+            "GrowthRate": "-5.7590"
+        },
+        {
+            "CTYNAME": "Childress County",
+            "Pop": 7291,
+            "GrowthRate": "3.1259"
+        },
+        {
+            "CTYNAME": "Dallam County",
+            "Pop": 7200,
+            "GrowthRate": "6.6983"
+        },
+        {
+            "CTYNAME": "Brooks County",
+            "Pop": 7114,
+            "GrowthRate": "-1.3041"
+        },
+        {
+            "CTYNAME": "Refugio County",
+            "Pop": 7032,
+            "GrowthRate": "-4.6508"
+        },
+        {
+            "CTYNAME": "Bailey County",
+            "Pop": 7027,
+            "GrowthRate": "-1.7752"
+        },
+        {
+            "CTYNAME": "Presidio County",
+            "Pop": 6948,
+            "GrowthRate": "-11.7826"
+        },
+        {
+            "CTYNAME": "Garza County",
+            "Pop": 6578,
+            "GrowthRate": "1.6850"
+        },
+        {
+            "CTYNAME": "San Saba County",
+            "Pop": 6054,
+            "GrowthRate": "-1.3042"
+        },
+        {
+            "CTYNAME": "Carson County",
+            "Pop": 6005,
+            "GrowthRate": "-2.5637"
+        },
+        {
+            "CTYNAME": "Lynn County",
+            "Pop": 5877,
+            "GrowthRate": "-0.6256"
+        },
+        {
+            "CTYNAME": "Floyd County",
+            "Pop": 5837,
+            "GrowthRate": "-8.8396"
+        },
+        {
+            "CTYNAME": "Haskell County",
+            "Pop": 5813,
+            "GrowthRate": "-1.1226"
+        },
+        {
+            "CTYNAME": "Crosby County",
+            "Pop": 5779,
+            "GrowthRate": "-4.0989"
+        },
+        {
+            "CTYNAME": "Martin County",
+            "Pop": 5753,
+            "GrowthRate": "19.6299"
+        },
+        {
+            "CTYNAME": "Hartley County",
+            "Pop": 5619,
+            "GrowthRate": "-7.3384"
+        },
+        {
+            "CTYNAME": "Hansford County",
+            "Pop": 5463,
+            "GrowthRate": "-2.4638"
+        },
+        {
+            "CTYNAME": "Delta County",
+            "Pop": 5349,
+            "GrowthRate": "2.0607"
+        },
+        {
+            "CTYNAME": "Jim Hogg County",
+            "Pop": 5248,
+            "GrowthRate": "-0.7564"
+        },
+        {
+            "CTYNAME": "Wheeler County",
+            "Pop": 5191,
+            "GrowthRate": "-3.6384"
+        },
+        {
+            "CTYNAME": "Mills County",
+            "Pop": 4921,
+            "GrowthRate": "-0.9461"
+        },
+        {
+            "CTYNAME": "Hudspeth County",
+            "Pop": 4795,
+            "GrowthRate": "38.1048"
+        },
+        {
+            "CTYNAME": "Crane County",
+            "Pop": 4794,
+            "GrowthRate": "9.4021"
+        },
+        {
+            "CTYNAME": "Kimble County",
+            "Pop": 4362,
+            "GrowthRate": "-5.2151"
+        },
+        {
+            "CTYNAME": "Mason County",
+            "Pop": 4280,
+            "GrowthRate": "6.7332"
+        },
+        {
+            "CTYNAME": "Concho County",
+            "Pop": 4276,
+            "GrowthRate": "4.2418"
+        },
+        {
+            "CTYNAME": "Hardeman County",
+            "Pop": 3922,
+            "GrowthRate": "-5.6985"
+        },
+        {
+            "CTYNAME": "Fisher County",
+            "Pop": 3839,
+            "GrowthRate": "-3.3728"
+        },
+        {
+            "CTYNAME": "Hemphill County",
+            "Pop": 3825,
+            "GrowthRate": "0.7905"
+        },
+        {
+            "CTYNAME": "Kinney County",
+            "Pop": 3767,
+            "GrowthRate": "4.9304"
+        },
+        {
+            "CTYNAME": "Sutton County",
+            "Pop": 3758,
+            "GrowthRate": "-7.4840"
+        },
+        {
+            "CTYNAME": "Reagan County",
+            "Pop": 3741,
+            "GrowthRate": "11.5717"
+        },
+        {
+            "CTYNAME": "Upton County",
+            "Pop": 3671,
+            "GrowthRate": "9.9760"
+        },
+        {
+            "CTYNAME": "Knox County",
+            "Pop": 3653,
+            "GrowthRate": "-1.8802"
+        },
+        {
+            "CTYNAME": "Baylor County",
+            "Pop": 3582,
+            "GrowthRate": "-3.3981"
+        },
+        {
+            "CTYNAME": "Crockett County",
+            "Pop": 3499,
+            "GrowthRate": "-5.4580"
+        },
+        {
+            "CTYNAME": "Real County",
+            "Pop": 3478,
+            "GrowthRate": "4.6960"
+        },
+        {
+            "CTYNAME": "Coke County",
+            "Pop": 3370,
+            "GrowthRate": "1.5366"
+        },
+        {
+            "CTYNAME": "Lipscomb County",
+            "Pop": 3355,
+            "GrowthRate": "2.1931"
+        },
+        {
+            "CTYNAME": "Donley County",
+            "Pop": 3319,
+            "GrowthRate": "-11.1141"
+        },
+        {
+            "CTYNAME": "Shackelford County",
+            "Pop": 3253,
+            "GrowthRate": "-3.9563"
+        },
+        {
+            "CTYNAME": "Sherman County",
+            "Pop": 3079,
+            "GrowthRate": "1.7851"
+        },
+        {
+            "CTYNAME": "Hall County",
+            "Pop": 3028,
+            "GrowthRate": "-9.8541"
+        },
+        {
+            "CTYNAME": "Collingsworth County",
+            "Pop": 2962,
+            "GrowthRate": "-3.0124"
+        },
+        {
+            "CTYNAME": "Schleicher County",
+            "Pop": 2895,
+            "GrowthRate": "-17.3566"
+        },
+        {
+            "CTYNAME": "Cochran County",
+            "Pop": 2836,
+            "GrowthRate": "-9.8824"
+        },
+        {
+            "CTYNAME": "Jeff Davis County",
+            "Pop": 2252,
+            "GrowthRate": "-3.9249"
+        },
+        {
+            "CTYNAME": "Dickens County",
+            "Pop": 2249,
+            "GrowthRate": "-8.0915"
+        },
+        {
+            "CTYNAME": "Culberson County",
+            "Pop": 2204,
+            "GrowthRate": "-8.3195"
+        },
+        {
+            "CTYNAME": "Menard County",
+            "Pop": 2139,
+            "GrowthRate": "-4.0807"
+        },
+        {
+            "CTYNAME": "Oldham County",
+            "Pop": 2131,
+            "GrowthRate": "3.9512"
+        },
+        {
+            "CTYNAME": "Edwards County",
+            "Pop": 1928,
+            "GrowthRate": "-3.5518"
+        },
+        {
+            "CTYNAME": "Armstrong County",
+            "Pop": 1892,
+            "GrowthRate": "-0.5258"
+        },
+        {
+            "CTYNAME": "Irion County",
+            "Pop": 1522,
+            "GrowthRate": "-5.2894"
+        },
+        {
+            "CTYNAME": "Briscoe County",
+            "Pop": 1516,
+            "GrowthRate": "-7.1078"
+        },
+        {
+            "CTYNAME": "Throckmorton County",
+            "Pop": 1515,
+            "GrowthRate": "-7.5656"
+        },
+        {
+            "CTYNAME": "Cottle County",
+            "Pop": 1389,
+            "GrowthRate": "-8.1349"
+        },
+        {
+            "CTYNAME": "Glasscock County",
+            "Pop": 1388,
+            "GrowthRate": "12.6623"
+        },
+        {
+            "CTYNAME": "Stonewall County",
+            "Pop": 1362,
+            "GrowthRate": "-8.9572"
+        },
+        {
+            "CTYNAME": "Sterling County",
+            "Pop": 1311,
+            "GrowthRate": "15.3034"
+        },
+        {
+            "CTYNAME": "Motley County",
+            "Pop": 1234,
+            "GrowthRate": "2.4066"
+        },
+        {
+            "CTYNAME": "Foard County",
+            "Pop": 1200,
+            "GrowthRate": "-10.7807"
+        },
+        {
+            "CTYNAME": "Roberts County",
+            "Pop": 903,
+            "GrowthRate": "-2.2727"
+        },
+        {
+            "CTYNAME": "Terrell County",
+            "Pop": 823,
+            "GrowthRate": "-18.5955"
+        },
+        {
+            "CTYNAME": "McMullen County",
+            "Pop": 749,
+            "GrowthRate": "5.3446"
+        },
+        {
+            "CTYNAME": "Kent County",
+            "Pop": 726,
+            "GrowthRate": "-10.5911"
+        },
+        {
+            "CTYNAME": "Borden County",
+            "Pop": 648,
+            "GrowthRate": "0.3096"
+        },
+        {
+            "CTYNAME": "Kenedy County",
+            "Pop": 442,
+            "GrowthRate": "5.9952"
+        },
+        {
+            "CTYNAME": "King County",
+            "Pop": 277,
+            "GrowthRate": "-3.8194"
+        },
+        {
+            "CTYNAME": "Loving County",
+            "Pop": 152,
+            "GrowthRate": "80.9524"
+        }
+    ]
+}

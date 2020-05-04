@@ -1,0 +1,464 @@
+{
+    "data": [
+        {
+            "CTYNAME": "Marion County",
+            "Pop": 954670,
+            "GrowthRate": "5.5348"
+        },
+        {
+            "CTYNAME": "Lake County",
+            "Pop": 484411,
+            "GrowthRate": "-2.3245"
+        },
+        {
+            "CTYNAME": "Allen County",
+            "Pop": 375351,
+            "GrowthRate": "5.4537"
+        },
+        {
+            "CTYNAME": "Hamilton County",
+            "Pop": 330086,
+            "GrowthRate": "19.3762"
+        },
+        {
+            "CTYNAME": "St. Joseph County",
+            "Pop": 270771,
+            "GrowthRate": "1.4850"
+        },
+        {
+            "CTYNAME": "Elkhart County",
+            "Pop": 205560,
+            "GrowthRate": "4.1105"
+        },
+        {
+            "CTYNAME": "Tippecanoe County",
+            "Pop": 193048,
+            "GrowthRate": "11.5227"
+        },
+        {
+            "CTYNAME": "Vanderburgh County",
+            "Pop": 180974,
+            "GrowthRate": "0.6294"
+        },
+        {
+            "CTYNAME": "Porter County",
+            "Pop": 169594,
+            "GrowthRate": "3.0967"
+        },
+        {
+            "CTYNAME": "Hendricks County",
+            "Pop": 167009,
+            "GrowthRate": "14.4587"
+        },
+        {
+            "CTYNAME": "Johnson County",
+            "Pop": 156225,
+            "GrowthRate": "11.3729"
+        },
+        {
+            "CTYNAME": "Monroe County",
+            "Pop": 146917,
+            "GrowthRate": "6.0313"
+        },
+        {
+            "CTYNAME": "Madison County",
+            "Pop": 129641,
+            "GrowthRate": "-1.5028"
+        },
+        {
+            "CTYNAME": "Clark County",
+            "Pop": 117360,
+            "GrowthRate": "6.1390"
+        },
+        {
+            "CTYNAME": "Delaware County",
+            "Pop": 114772,
+            "GrowthRate": "-2.4479"
+        },
+        {
+            "CTYNAME": "LaPorte County",
+            "Pop": 110007,
+            "GrowthRate": "-1.2992"
+        },
+        {
+            "CTYNAME": "Vigo County",
+            "Pop": 107386,
+            "GrowthRate": "-0.4607"
+        },
+        {
+            "CTYNAME": "Bartholomew County",
+            "Pop": 82753,
+            "GrowthRate": "7.7232"
+        },
+        {
+            "CTYNAME": "Howard County",
+            "Pop": 82366,
+            "GrowthRate": "-0.4701"
+        },
+        {
+            "CTYNAME": "Kosciusko County",
+            "Pop": 79344,
+            "GrowthRate": "2.5898"
+        },
+        {
+            "CTYNAME": "Floyd County",
+            "Pop": 77781,
+            "GrowthRate": "4.1106"
+        },
+        {
+            "CTYNAME": "Hancock County",
+            "Pop": 76351,
+            "GrowthRate": "8.7172"
+        },
+        {
+            "CTYNAME": "Morgan County",
+            "Pop": 70116,
+            "GrowthRate": "1.3911"
+        },
+        {
+            "CTYNAME": "Boone County",
+            "Pop": 66999,
+            "GrowthRate": "17.7197"
+        },
+        {
+            "CTYNAME": "Wayne County",
+            "Pop": 65936,
+            "GrowthRate": "-4.2880"
+        },
+        {
+            "CTYNAME": "Grant County",
+            "Pop": 65936,
+            "GrowthRate": "-5.6791"
+        },
+        {
+            "CTYNAME": "Warrick County",
+            "Pop": 62567,
+            "GrowthRate": "4.5554"
+        },
+        {
+            "CTYNAME": "Dearborn County",
+            "Pop": 49568,
+            "GrowthRate": "-1.0401"
+        },
+        {
+            "CTYNAME": "Henry County",
+            "Pop": 48271,
+            "GrowthRate": "-2.5419"
+        },
+        {
+            "CTYNAME": "Noble County",
+            "Pop": 47532,
+            "GrowthRate": "0.1623"
+        },
+        {
+            "CTYNAME": "Marshall County",
+            "Pop": 46248,
+            "GrowthRate": "-1.5979"
+        },
+        {
+            "CTYNAME": "Lawrence County",
+            "Pop": 45668,
+            "GrowthRate": "-0.9414"
+        },
+        {
+            "CTYNAME": "Shelby County",
+            "Pop": 44593,
+            "GrowthRate": "0.6273"
+        },
+        {
+            "CTYNAME": "Jackson County",
+            "Pop": 44111,
+            "GrowthRate": "3.5810"
+        },
+        {
+            "CTYNAME": "DeKalb County",
+            "Pop": 43226,
+            "GrowthRate": "2.1674"
+        },
+        {
+            "CTYNAME": "Dubois County",
+            "Pop": 42565,
+            "GrowthRate": "1.5726"
+        },
+        {
+            "CTYNAME": "Harrison County",
+            "Pop": 40350,
+            "GrowthRate": "2.5987"
+        },
+        {
+            "CTYNAME": "LaGrange County",
+            "Pop": 39330,
+            "GrowthRate": "5.8453"
+        },
+        {
+            "CTYNAME": "Montgomery County",
+            "Pop": 38346,
+            "GrowthRate": "0.6536"
+        },
+        {
+            "CTYNAME": "Cass County",
+            "Pop": 37955,
+            "GrowthRate": "-2.6296"
+        },
+        {
+            "CTYNAME": "Putnam County",
+            "Pop": 37779,
+            "GrowthRate": "-0.3561"
+        },
+        {
+            "CTYNAME": "Knox County",
+            "Pop": 36895,
+            "GrowthRate": "-3.9018"
+        },
+        {
+            "CTYNAME": "Huntington County",
+            "Pop": 36240,
+            "GrowthRate": "-2.3628"
+        },
+        {
+            "CTYNAME": "Adams County",
+            "Pop": 35636,
+            "GrowthRate": "3.4397"
+        },
+        {
+            "CTYNAME": "Miami County",
+            "Pop": 35567,
+            "GrowthRate": "-3.3768"
+        },
+        {
+            "CTYNAME": "Steuben County",
+            "Pop": 34586,
+            "GrowthRate": "1.3183"
+        },
+        {
+            "CTYNAME": "Whitley County",
+            "Pop": 34074,
+            "GrowthRate": "2.1525"
+        },
+        {
+            "CTYNAME": "Gibson County",
+            "Pop": 33452,
+            "GrowthRate": "-0.2772"
+        },
+        {
+            "CTYNAME": "Jasper County",
+            "Pop": 33370,
+            "GrowthRate": "-0.3762"
+        },
+        {
+            "CTYNAME": "Daviess County",
+            "Pop": 33147,
+            "GrowthRate": "4.4987"
+        },
+        {
+            "CTYNAME": "Clinton County",
+            "Pop": 32250,
+            "GrowthRate": "-2.9229"
+        },
+        {
+            "CTYNAME": "Jefferson County",
+            "Pop": 32208,
+            "GrowthRate": "-0.5957"
+        },
+        {
+            "CTYNAME": "Greene County",
+            "Pop": 32006,
+            "GrowthRate": "-3.6109"
+        },
+        {
+            "CTYNAME": "Wabash County",
+            "Pop": 31280,
+            "GrowthRate": "-4.7735"
+        },
+        {
+            "CTYNAME": "Ripley County",
+            "Pop": 28523,
+            "GrowthRate": "-1.0168"
+        },
+        {
+            "CTYNAME": "Wells County",
+            "Pop": 28206,
+            "GrowthRate": "1.8966"
+        },
+        {
+            "CTYNAME": "Washington County",
+            "Pop": 27943,
+            "GrowthRate": "-1.2615"
+        },
+        {
+            "CTYNAME": "Jennings County",
+            "Pop": 27611,
+            "GrowthRate": "-3.0581"
+        },
+        {
+            "CTYNAME": "Decatur County",
+            "Pop": 26794,
+            "GrowthRate": "3.8608"
+        },
+        {
+            "CTYNAME": "Clay County",
+            "Pop": 26170,
+            "GrowthRate": "-2.5362"
+        },
+        {
+            "CTYNAME": "Posey County",
+            "Pop": 25540,
+            "GrowthRate": "-1.2336"
+        },
+        {
+            "CTYNAME": "Randolph County",
+            "Pop": 24851,
+            "GrowthRate": "-5.0691"
+        },
+        {
+            "CTYNAME": "White County",
+            "Pop": 24133,
+            "GrowthRate": "-2.2441"
+        },
+        {
+            "CTYNAME": "Scott County",
+            "Pop": 23878,
+            "GrowthRate": "-1.1836"
+        },
+        {
+            "CTYNAME": "Fayette County",
+            "Pop": 23047,
+            "GrowthRate": "-5.2577"
+        },
+        {
+            "CTYNAME": "Starke County",
+            "Pop": 22935,
+            "GrowthRate": "-1.7563"
+        },
+        {
+            "CTYNAME": "Franklin County",
+            "Pop": 22736,
+            "GrowthRate": "-1.3922"
+        },
+        {
+            "CTYNAME": "Owen County",
+            "Pop": 20845,
+            "GrowthRate": "-3.3611"
+        },
+        {
+            "CTYNAME": "Jay County",
+            "Pop": 20764,
+            "GrowthRate": "-1.9549"
+        },
+        {
+            "CTYNAME": "Sullivan County",
+            "Pop": 20690,
+            "GrowthRate": "-3.2680"
+        },
+        {
+            "CTYNAME": "Spencer County",
+            "Pop": 20327,
+            "GrowthRate": "-2.7974"
+        },
+        {
+            "CTYNAME": "Carroll County",
+            "Pop": 20127,
+            "GrowthRate": "-0.3318"
+        },
+        {
+            "CTYNAME": "Fulton County",
+            "Pop": 20092,
+            "GrowthRate": "-3.4642"
+        },
+        {
+            "CTYNAME": "Orange County",
+            "Pop": 19489,
+            "GrowthRate": "-1.6005"
+        },
+        {
+            "CTYNAME": "Perry County",
+            "Pop": 19102,
+            "GrowthRate": "-1.5868"
+        },
+        {
+            "CTYNAME": "Parke County",
+            "Pop": 16927,
+            "GrowthRate": "-2.0485"
+        },
+        {
+            "CTYNAME": "Rush County",
+            "Pop": 16663,
+            "GrowthRate": "-4.1475"
+        },
+        {
+            "CTYNAME": "Fountain County",
+            "Pop": 16351,
+            "GrowthRate": "-5.3488"
+        },
+        {
+            "CTYNAME": "Vermillion County",
+            "Pop": 15479,
+            "GrowthRate": "-3.9526"
+        },
+        {
+            "CTYNAME": "Brown County",
+            "Pop": 15234,
+            "GrowthRate": "0.1775"
+        },
+        {
+            "CTYNAME": "Tipton County",
+            "Pop": 15128,
+            "GrowthRate": "-4.7235"
+        },
+        {
+            "CTYNAME": "Newton County",
+            "Pop": 14011,
+            "GrowthRate": "-1.5667"
+        },
+        {
+            "CTYNAME": "Pulaski County",
+            "Pop": 12469,
+            "GrowthRate": "-6.4310"
+        },
+        {
+            "CTYNAME": "Pike County",
+            "Pop": 12410,
+            "GrowthRate": "-2.5061"
+        },
+        {
+            "CTYNAME": "Blackford County",
+            "Pop": 11930,
+            "GrowthRate": "-6.5852"
+        },
+        {
+            "CTYNAME": "Switzerland County",
+            "Pop": 10717,
+            "GrowthRate": "0.1963"
+        },
+        {
+            "CTYNAME": "Crawford County",
+            "Pop": 10558,
+            "GrowthRate": "-1.4192"
+        },
+        {
+            "CTYNAME": "Martin County",
+            "Pop": 10217,
+            "GrowthRate": "-1.3708"
+        },
+        {
+            "CTYNAME": "Benton County",
+            "Pop": 8653,
+            "GrowthRate": "-2.3694"
+        },
+        {
+            "CTYNAME": "Warren County",
+            "Pop": 8263,
+            "GrowthRate": "-3.0278"
+        },
+        {
+            "CTYNAME": "Union County",
+            "Pop": 7037,
+            "GrowthRate": "-6.6339"
+        },
+        {
+            "CTYNAME": "Ohio County",
+            "Pop": 5844,
+            "GrowthRate": "-4.1181"
+        }
+    ]
+}

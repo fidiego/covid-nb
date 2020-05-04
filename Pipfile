@@ -15,6 +15,12 @@ bokeh = "*"
 black = "==19.10b0"
 nbconvert = "*"
 jupyter-contrib-nbextensions = "*"
+requests = "*"
+shapely = "*"
+geopandas = "*"
+geojsonio = "*"
+plotly = "*"
+chart-studio = "*"
 
 [requires]
 python_version = "3.7"
