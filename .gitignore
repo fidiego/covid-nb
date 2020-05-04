@@ -1,4 +1,6 @@
 
+us-counties.csv
+geojson-counties-fips.json
 
 # Created by https://www.gitignore.io/api/osx,vim,python,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=osx,vim,python,jupyternotebooks
