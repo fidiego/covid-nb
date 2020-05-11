@@ -21,6 +21,7 @@ geopandas = "*"
 geojsonio = "*"
 plotly = "*"
 chart-studio = "*"
+streamlit = "*"
 
 [requires]
 python_version = "3.7"
