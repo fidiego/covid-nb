@@ -32,7 +32,7 @@ def main():
             <title>Document</title>
         </head>
         <body>
-        {{index_html}}
+        {index_html}
         </body>
         </html>"""
 
