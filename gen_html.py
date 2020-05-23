@@ -22,7 +22,7 @@ def main():
         for nb in notebooks
     ]
     index_html = f"<ul>{''.join(lis)}</ul>"
-    index_html = """<!DOCTYPE html>
+    index_html = f"""<!DOCTYPE html>
         <html lang="en">
         <head>
             <meta charset="UTF-8">
