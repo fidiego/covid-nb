@@ -22,9 +22,22 @@ def main():
         for nb in notebooks
     ]
     index_html = f"<ul>{''.join(lis)}</ul>"
-    with open(os.path.join(BASE_DIR, 'index.html'), 'w+') as openfile:
-        openfile.write(index_html)
+    index_html = """<!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+            <title>Document</title>
+        </head>
+        <body>
+        {{index_html}}
+        </body>
+        </html>"""
 
+    with open(os.path.join(BASE_DIR, "index.html"), "w+") as openfile:
+        openfile.write(index_html)
 
 
 if __name__ == "__main__":
